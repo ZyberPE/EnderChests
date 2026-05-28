@@ -12,7 +12,7 @@
 
 # DO NOT TOUCH
 config-version: "1.0.0"
-# ======(SETTINGS)======
+# =======(SETTINGS)=======
 Settings:
   EnderChest-name: "EnderChest inventory"
   EnderChest-sound: true
